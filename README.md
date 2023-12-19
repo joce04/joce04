@@ -1,11 +1,7 @@
-<p align=”center”>
- <source media="(prefers-color-scheme: dark)" srcset="![Blue Gradient Header Banner](https://github.com/joce04/joce04/assets/72326049/a3999ad6-dddc-4a09-a302-c91914efb154)">
- <source media="(prefers-color-scheme: light)" srcset="![Blue Gradient Header Banner](https://github.com/joce04/joce04/assets/72326049/a3999ad6-dddc-4a09-a302-c91914efb154)">
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-</p>
-
 <picture>
-  <img alt="YOUR-ALT-TEXT" src="![Blue Gradient Header Banner](https://github.com/joce04/joce04/assets/72326049/60762018-c90b-4362-8002-bf6f2232ffa4)">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joce04/joce04/assets/72326049/a3999ad6-dddc-4a09-a302-c91914efb154">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/joce04/joce04/assets/72326049/a3999ad6-dddc-4a09-a302-c91914efb154">
+  <img alt="YOUR-ALT-TEXT" src="https://github.com/joce04/joce04/assets/72326049/60762018-c90b-4362-8002-bf6f2232ffa4">
 </picture>
 
 ## Hello, I'm Jocelyn!

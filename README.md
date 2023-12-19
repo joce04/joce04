@@ -1,20 +1,23 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+ <source media="(prefers-color-scheme: dark)" srcset="![Blue Gradient Header Banner](https://github.com/joce04/joce04/assets/72326049/a3999ad6-dddc-4a09-a302-c91914efb154)">
+ <source media="(prefers-color-scheme: light)" srcset="![Blue Gradient Header Banner](https://github.com/joce04/joce04/assets/72326049/a3999ad6-dddc-4a09-a302-c91914efb154)">
+ <img alt="YOUR-ALT-TEXT" src="![Blue Gradient Header Banner](https://github.com/joce04/joce04/assets/72326049/a3999ad6-dddc-4a09-a302-c91914efb154)">
 </picture>
 
-<!--
-**joce04/joce04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm Jocelyn!
+I'm a second year computer engineering student at the University of British Columbia. I'm currently looking for summer internships in software and firmware development. Let me tell you a little bit out me:
 
-Here are some ideas to get you started:
+- I'm currently programming an AI generated newsletter that combines different forms of media from around the internet to provide interesting media in a variety of subjects.
+- I am super passionate about the ocean and participated in Ocean Wise's Oceanbridge Ambassador program where I engaged in 150+ hours of community service to protect the oceans.
+- I am on the electrical team of SUBC, UBC's Submarine Design Team that participated in the International Submarine Races 2023 and currently preparing for the European International Submarine Races 2024.
+- I run an Instagram account with 18k+ followers documenting my life as a women in STEM.
+- I'm partcipating in research in microarchitecture with Professor Tor Aamodt and Dival Shah through the Department of Electrical and Computer Engineering at the University of British Columbia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please feel free to reach out, I would love to get to know you too! 
+
+<img alt=”Swift” src=”![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)"/>
+<img alt=”Java” src=”![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)"/>
+<img alt=”C” src=”![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)"/>
+<img alt=”Firebase” src=”![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)"/>
+<img alt=”LaTex” src=”![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)"/>
+

@@ -1,7 +1,11 @@
-<picture>
+<p align=”center”>
  <source media="(prefers-color-scheme: dark)" srcset="![Blue Gradient Header Banner](https://github.com/joce04/joce04/assets/72326049/a3999ad6-dddc-4a09-a302-c91914efb154)">
  <source media="(prefers-color-scheme: light)" srcset="![Blue Gradient Header Banner](https://github.com/joce04/joce04/assets/72326049/a3999ad6-dddc-4a09-a302-c91914efb154)">
- <img alt="YOUR-ALT-TEXT" src="![Blue Gradient Header Banner](https://github.com/joce04/joce04/assets/72326049/60762018-c90b-4362-8002-bf6f2232ffa4)">
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+</p>
+
+<picture>
+  <img alt="YOUR-ALT-TEXT" src="![Blue Gradient Header Banner](https://github.com/joce04/joce04/assets/72326049/60762018-c90b-4362-8002-bf6f2232ffa4)">
 </picture>
 
 ## Hello, I'm Jocelyn!
@@ -16,8 +20,8 @@ I'm a second year computer engineering student at the University of British Colu
 Please feel free to reach out, I would love to get to know you too! 
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)"
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)"
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)"
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 

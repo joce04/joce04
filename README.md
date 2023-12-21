@@ -1,9 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joce04/joce04/assets/72326049/a3999ad6-dddc-4a09-a302-c91914efb154">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/joce04/joce04/assets/72326049/a3999ad6-dddc-4a09-a302-c91914efb154">
-  <img alt="YOUR-ALT-TEXT" src="https://github.com/joce04/joce04/assets/72326049/60762018-c90b-4362-8002-bf6f2232ffa4">
-</picture>
-
 ## Hello, I'm Jocelyn!
 I'm a second year computer engineering student at the University of British Columbia. I'm currently looking for summer internships in software and firmware development. Let me tell you a little bit out me:
 

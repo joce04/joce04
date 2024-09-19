@@ -1,5 +1,5 @@
 ## Hello, I'm Jocelyn!
-I'm a second-year computer engineering student at the University of British Columbia. It's nice to meet you! Let me tell you a little bit about me:
+I'm a third-year computer engineering student at the University of British Columbia. It's nice to meet you! Let me tell you a little bit about me:
 
 - I'm participating in research in microarchitecture with Professor Tor Aamodt and Deval Shah through the Department of Electrical and Computer Engineering at the University of British Columbia.
 - I'm currently programming an AI-generated newsletter combining different media forms from around the internet to provide interesting media on various subjects.

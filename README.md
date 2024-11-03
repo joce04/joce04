@@ -2,11 +2,10 @@
 I'm a third-year computer engineering student at the University of British Columbia. It's nice to meet you! Let me tell you a little bit about me:
 
 - I'm participating in research in microarchitecture with Professor Tor Aamodt and Deval Shah through the Department of Electrical and Computer Engineering at the University of British Columbia.
+- I am one of the Electrical Team Leads at SUBC, UBC's Submarine Design Team that participated in the International Submarine Races 2023, European International Submarine Races 2024 and is currently preparing for the International Submarine Races 2025.
+- I run an Instagram account with 22k+ followers documenting my life as a woman in STEM and my various projects.
 - I'm currently programming an AI-generated newsletter combining different media forms from around the internet to provide interesting media on various subjects.
 - I am super passionate about the ocean and participated in Ocean Wise's Oceanbridge Ambassador program, where I engaged in 150+ hours of community service to protect the oceans.
-- Sustainability, conservation, healing the earth are all subjects that I'm interested in!
-- I am on the electrical team of SUBC, UBC's Submarine Design Team that participated in the International Submarine Races 2023 and is currently preparing for the European International Submarine Races 2024.
-- I run an Instagram account with 22k+ followers documenting my life as a woman in STEM and my various projects.
 
 Please feel free to reach out. I would love to get to know you, too! 
 
